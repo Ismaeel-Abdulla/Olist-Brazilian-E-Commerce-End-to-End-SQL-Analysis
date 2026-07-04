@@ -48,6 +48,23 @@ olist-ecommerce-sql-analysis/
 
 ---
 
+## Data Ingestion
+
+Raw CSVs were pulled directly from Kaggle into BigQuery using a
+Jupyter notebook running inside the Kaggle environment.
+
+**Approach:**
+- GCP Service Account JSON key stored securely as a Kaggle Secret
+- `google-cloud-bigquery` Python client used to authenticate and load
+- All 8 CSV files looped and loaded into `som3a-366421.olist` as raw tables
+- No manual downloads — fully automated ingestion from source to warehouse
+
+This approach keeps the pipeline reproducible — anyone with a GCP
+service account can re-run the notebook and recreate the raw tables
+from scratch in minutes.
+
+---
+
 ## Phase 1 — Data Cleaning
 
 All 8 raw Kaggle CSVs were loaded into BigQuery and materialized into cleaned tables before any analysis ran.
