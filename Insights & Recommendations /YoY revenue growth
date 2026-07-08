@@ -1,0 +1,34 @@
+# Q1 — Year-over-Year (YoY) Revenue Growth Analysis
+
+## Results
+
+| Month | Revenue (R$) | Same Month Prev Year (R$) | YoY Growth % |
+|-------|-------------|--------------------------|--------------|
+| 2017-01 | 137,006.76 | — | — |
+| 2017-02 | 283,621.94 | — | — |
+| 2017-03 | 425,656.40 | — | — |
+| 2017-04 | 405,988.38 | — | — |
+| 2017-05 | 582,926.16 | — | — |
+| 2017-06 | 499,827.47 | — | — |
+| 2017-07 | 578,858.58 | — | — |
+| 2017-08 | 662,071.77 | — | — |
+| 2017-09 | 717,195.22 | — | — |
+| 2017-10 | 764,785.28 | — | — |
+| 2017-11 | 1,172,639.23 | — | — |
+| 2017-12 | 861,914.46 | — | — |
+| 2018-01 | 1,102,639.41 | 137,006.76 | 704.8% |
+| 2018-02 | 979,966.23 | 283,621.94 | 245.5% |
+| 2018-03 | 1,152,736.74 | 425,656.40 | 170.8% |
+| 2018-04 | 1,156,303.91 | 405,988.38 | 184.8% |
+| 2018-05 | 1,145,748.63 | 582,926.16 | 96.6% |
+| 2018-06 | 1,020,494.29 | 499,827.47 | 104.2% |
+| 2018-07 | 1,039,880.16 | 578,858.58 | 79.6% |
+| 2018-08 | 996,896.15 | 662,071.77 | 50.6% |
+
+## Recommendations
+
+January 2018 posted the highest YoY growth in the dataset at 704.8% — R$1.10M vs R$137K in January 2017. This is not organic growth, it is a base effect: January 2017 was the platform's first full month of operation with only 752 new customers. The triple-digit growth figures in early 2018 should be framed carefully in any executive presentation — they reflect how small the starting base was, not a repeatable growth rate.
+
+November 2017 at R$1.17M is the single highest revenue month in the entire dataset — Black Friday driven and consistent with the 7,190 new customer spike from Q8. This is the platform's proven peak demand window. Inventory, logistics capacity, and seller readiness must be pre-positioned for November every year. A failure to fulfill during this month directly impacts the largest revenue opportunity in the calendar.
+
+YoY growth is decelerating sharply through 2018: from 704.8% in January down to 50.6% in August — a 93% drop in growth rate across 8 months. The platform is maturing and the hypergrowth phase is ending. Combined with the acquisition plateau from Q8 and the 3.04% repeat rate from Q6, the data collectively argues for an immediate strategic pivot — stop optimizing for new customer acquisition and start optimizing for revenue per existing customer through retention, upsell, and installment-driven AOV growth.
