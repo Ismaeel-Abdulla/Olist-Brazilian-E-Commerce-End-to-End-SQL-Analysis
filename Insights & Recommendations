@@ -1,0 +1,41 @@
+##  Year-Over-Year (YoY) Revenue Growth & Strategic Insights
+
+###  1. Query Results (Data Table)
+| Month | Revenue | Revenue (Prev Year) | YoY Growth (%) |
+| :--- | ---: | ---: | ---: |
+| **2017-01** | R$ 137,006.76 | *N/A* | *N/A* |
+| **2017-02** | R$ 283,621.94 | *N/A* | *N/A* |
+| **2017-03** | R$ 425,656.40 | *N/A* | *N/A* |
+| **2017-04** | R$ 405,988.38 | *N/A* | *N/A* |
+| **2017-05** | R$ 582,926.16 | *N/A* | *N/A* |
+| **2017-06** | R$ 499,827.47 | *N/A* | *N/A* |
+| **2017-07** | R$ 578,858.58 | *N/A* | *N/A* |
+| **2017-08** | R$ 662,071.77 | *N/A* | *N/A* |
+| **2017-09** | R$ 717,195.22 | *N/A* | *N/A* |
+| **2017-10** | R$ 764,785.28 | *N/A* | *N/A* |
+| **2017-11** | R$ 1,172,639.23 | *N/A* | *N/A* |
+| **2017-12** | R$ 861,914.46 | *N/A* | *N/A* |
+| **2018-01** | R$ 1,102,639.41 | R$ 137,006.76 | **+704.8%** |
+| **2018-02** | R$ 979,966.23 | R$ 283,621.94 | **+245.5%** |
+| **2018-03** | R$ 1,152,736.74 | R$ 425,656.40 | **+170.8%** |
+| **2018-04** | R$ 1,156,303.91 | R$ 405,988.38 | **+184.8%** |
+| **2018-05** | R$ 1,145,748.63 | R$ 582,926.16 | **+96.6%** |
+| **2018-06** | R$ 1,020,494.29 | R$ 499,827.47 | **+104.2%** |
+| **2018-07** | R$ 1,039,880.16 | R$ 578,858.58 | **+79.6%** |
+| **2018-08** | R$ 996,896.15 | R$ 662,071.77 | **+50.6%** |
+
+---
+
+###  2. Executive Insights & Business Recommendations
+
+####  Contextualizing the Early 2018 Hypergrowth (The Base Effect)
+* **Insight:** January 2018 posted the highest YoY growth in the dataset at **704.8%** (R$ 1.10M vs R$ 137K in January 2017). However, this is not purely organic hypergrowth; it is a classic **base effect**. January 2017 was the platform's first full month of operation with a very low volume of active customers. 
+* **Recommendation:** Triple-digit growth figures in early 2018 must be framed carefully in any executive presentation. They reflect how small the starting baseline was rather than a repeatable, steady-state growth rate for the business.
+
+####  Capitalizing on Peak Demand Windows (The Black Friday Spike)
+* **Insight:** November 2017 stands out as the single highest revenue month in the entire dataset at **R$ 1.17M**. This spike is heavily driven by Black Friday and perfectly aligns with surges in new customer acquisitions during this specific window. 
+* **Recommendation:** November is the platform's proven peak demand window. Inventory, logistics capacity, server infrastructure, and seller readiness must be proactively pre-positioned months before November every single year. A single operational failure during this month directly compromises the largest revenue-generating opportunity in the calendar year.
+
+####  Growth Deceleration & The Need for a Retention-Driven Pivot
+* **Insight:** YoY growth is decelerating sharply throughout 2018, dropping from **704.8%** in January down to **50.6%** in August—a massive **93% reduction in growth velocity** across an 8-month period. This indicates the platform is rapidly maturing and its initial hypergrowth phase is concluding.
+* **Recommendation:** Combined with slowing acquisition metrics and low repeat purchase rates, the data strongly argues for an immediate strategic pivot. Executive leadership should shift focus away from high-cost new customer acquisition and prioritize **maximizing revenue per existing customer** through targeted retention campaigns, loyalty programs, upselling, and installment-driven Average Order Value (AOV) growth optimization.
