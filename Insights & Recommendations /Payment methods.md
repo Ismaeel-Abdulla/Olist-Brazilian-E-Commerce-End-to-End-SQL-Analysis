@@ -1,4 +1,4 @@
-# Q2 — Payment Methods & Revenue Share Analysis
+ # Q2 — Payment Methods & Revenue Share Analysis
 
 ## Results
 
