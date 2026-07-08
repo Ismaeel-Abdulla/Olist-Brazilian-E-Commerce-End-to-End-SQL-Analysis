@@ -21,28 +21,5 @@ month,revenue,revenue_same_month_prev_year,yoy_growth_pct
 2018-08-01 00:00:00.000000 UTC,996896.15,662071.77,50.6 
 
 
-
-
--- *RECOMMENDATION*
-
--- January 2018 posted the highest YoY growth in the dataset at 704.8% — R$1.10M vs
--- R$137K in January 2017. This is not organic growth, it is a base effect: January
--- 2017 was the platform's first full month of operation with only 752 new customers
--- from Q6. The triple-digit growth figures in early 2018 should be framed carefully
--- in any executive presentation — they reflect how small the starting base was, not
--- a repeatable growth rate.
-
--- November 2017 at R$1.17M is the single highest revenue month in the entire dataset
--- — Black Friday driven and consistent with the 7,190 new customer spike from Q6.
--- This is the platform's proven peak demand window. Inventory, logistics capacity,
--- and seller readiness must be pre-positioned for November every year. A failure to
--- fulfill during this month directly impacts the largest revenue opportunity in the
--- calendar.
-
--- YoY growth is decelerating sharply through 2018: from 704.8% in January down to
--- 50.6% in August — an 93% drop in growth rate across 8 months. The platform is
--- maturing and the hypergrowth phase is ending. Combined with the acquisition plateau
--- from Q6 and the 3.04% repeat rate from Q4, the data collectively argues for an
--- immediate strategic pivot — stop optimizing for new customer acquisition and start
--- optimizing for revenue per existing customer through retention, upsell, and
+and
 -- installment-driven AOV growth.
